@@ -1,0 +1,326 @@
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\ProjetoPI.exe.config
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\ProjetoPI.exe
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\ProjetoPI.pdb
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.frmFuncionarios.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.frmLocalizacao.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.frmLogin.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.frmMenuPrincipal.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.frmParceiros.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.frmSplash.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.frmUsuarios.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.Properties.Resources.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.GenerateResource.cache
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.CoreCompileInputs.cache
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.exe
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.pdb
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.AssemblyReference.cache
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\K4os.Hash.xxHash.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\MySql.Data.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\System.Buffers.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\System.Memory.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\BouncyCastle.Crypto.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\K4os.Hash.xxHash.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\MySql.Data.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\System.Buffers.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\System.Memory.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.CopyComplete
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\ProjetoPI.exe.config
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\ProjetoPI.exe
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\ProjetoPI.pdb
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.dll
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\K4os.Hash.xxHash.dll
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\MySql.Data.dll
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\System.Buffers.dll
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\System.Memory.dll
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\BouncyCastle.Crypto.xml
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.xml
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\K4os.Hash.xxHash.xml
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\MySql.Data.xml
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\System.Buffers.xml
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\System.Memory.xml
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.AssemblyReference.cache
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.frmFuncionarios.resources
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.frmLocalizacao.resources
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.frmLogin.resources
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.frmMenuPrincipal.resources
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.frmParceiros.resources
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.frmSplash.resources
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.frmUsuarios.resources
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.Properties.Resources.resources
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.GenerateResource.cache
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.CoreCompileInputs.cache
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.CopyComplete
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.exe
+C:\Users\mateus.fribeiro1\Documents\Visual Studio 2019\empresaAquiseulixo\ProjetoPI\obj\x64\Debug\ProjetoPI.pdb
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\ProjetoPI.exe.config
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\ProjetoPI.exe
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\ProjetoPI.pdb
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.dll
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\K4os.Hash.xxHash.dll
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\MySql.Data.dll
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\System.Buffers.dll
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\System.Memory.dll
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\BouncyCastle.Crypto.xml
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.xml
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\K4os.Hash.xxHash.xml
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\MySql.Data.xml
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\System.Buffers.xml
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\System.Memory.xml
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.frmFuncionarios.resources
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.frmLocalizacao.resources
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.frmLogin.resources
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.frmMenuPrincipal.resources
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.frmParceiros.resources
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.frmSplash.resources
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.frmUsuarios.resources
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.Properties.Resources.resources
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.GenerateResource.cache
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.CoreCompileInputs.cache
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.CopyComplete
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.exe
+C:\Users\thiago.ssconceicao\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.pdb
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\ProjetoPI.exe.config
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\ProjetoPI.exe
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\ProjetoPI.pdb
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\K4os.Hash.xxHash.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\MySql.Data.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\System.Buffers.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\System.Memory.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\BouncyCastle.Crypto.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\K4os.Hash.xxHash.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\MySql.Data.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\System.Buffers.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\System.Memory.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.frmCarregaDataGridDB.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.frmfuncionarios.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.frmLocalizacao.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.frmLogin.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.frmMenuPrincipal.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.frmParceiros.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.frmpesquisar.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.frmSplash.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.frmUsuarios.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.Properties.Resources.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.GenerateResource.cache
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.CoreCompileInputs.cache
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.CopyComplete
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.exe
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.pdb
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.AssemblyReference.cache
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\obj\x64\Debug\ProjetoPI.frmCarregaDataGridDBUsu.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\BCrypt.Net-Next.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2\ProjetoPI\bin\x64\Debug\BCrypt.Net-Next.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\ProjetoPI.exe.config
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\ProjetoPI.exe
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\ProjetoPI.pdb
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\BCrypt.Net-Next.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\K4os.Hash.xxHash.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\MySql.Data.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\System.Buffers.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\System.Memory.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\BCrypt.Net-Next.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\BouncyCastle.Crypto.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\K4os.Hash.xxHash.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\MySql.Data.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\System.Buffers.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\System.Memory.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\obj\x64\Debug\ProjetoPI.frmCarregaDataGridDB.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\obj\x64\Debug\ProjetoPI.frmCarregaDataGridDBUsu.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\obj\x64\Debug\ProjetoPI.frmfuncionarios.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\obj\x64\Debug\ProjetoPI.frmLocalizacao.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\obj\x64\Debug\ProjetoPI.frmLogin.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\obj\x64\Debug\ProjetoPI.frmMenuPrincipal.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\obj\x64\Debug\ProjetoPI.frmParceiros.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\obj\x64\Debug\ProjetoPI.frmSplash.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\obj\x64\Debug\ProjetoPI.Properties.Resources.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.GenerateResource.cache
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.CoreCompileInputs.cache
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.CopyComplete
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\obj\x64\Debug\ProjetoPI.exe
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\obj\x64\Debug\ProjetoPI.pdb
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.AssemblyReference.cache
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\empresaAquiseulixo2 - Copia\ProjetoPI\obj\x64\Debug\ProjetoPI.frmPesquisaFunc.resources
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\ProjetoPI.exe.config
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\ProjetoPI.exe
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\ProjetoPI.pdb
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\BCrypt.Net-Next.dll
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.dll
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\K4os.Hash.xxHash.dll
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\MySql.Data.dll
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\System.Buffers.dll
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\System.Memory.dll
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\BCrypt.Net-Next.xml
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\BouncyCastle.Crypto.xml
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.xml
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\K4os.Hash.xxHash.xml
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\MySql.Data.xml
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\System.Buffers.xml
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\System.Memory.xml
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.AssemblyReference.cache
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\obj\x64\Debug\ProjetoPI.frmCarregaDataGridDB.resources
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\obj\x64\Debug\ProjetoPI.frmCarregaDataGridDBUsu.resources
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\obj\x64\Debug\ProjetoPI.frmfuncionarios.resources
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\obj\x64\Debug\ProjetoPI.frmLocalizacao.resources
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\obj\x64\Debug\ProjetoPI.frmLogin.resources
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\obj\x64\Debug\ProjetoPI.frmMenuPrincipal.resources
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\obj\x64\Debug\ProjetoPI.frmParceiros.resources
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\obj\x64\Debug\ProjetoPI.frmPesquisaFunc.resources
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\obj\x64\Debug\ProjetoPI.frmSplash.resources
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\obj\x64\Debug\ProjetoPI.Properties.Resources.resources
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.GenerateResource.cache
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.CoreCompileInputs.cache
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.CopyComplete
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\obj\x64\Debug\ProjetoPI.exe
+C:\Users\Don\Documents\Visual Studio 2022\Aqui-Seu-Lixo\ProjetoPI\obj\x64\Debug\ProjetoPI.pdb
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\ProjetoPI.exe.config
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\ProjetoPI.exe
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\ProjetoPI.pdb
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\BCrypt.Net-Next.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\K4os.Hash.xxHash.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\MySql.Data.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\System.Buffers.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\System.Memory.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\BCrypt.Net-Next.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\BouncyCastle.Crypto.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\K4os.Hash.xxHash.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\MySql.Data.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\System.Buffers.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\System.Memory.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.AssemblyReference.cache
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\obj\x64\Debug\ProjetoPI.frmCarregaDataGridDB.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\obj\x64\Debug\ProjetoPI.frmCarregaDataGridDBUsu.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\obj\x64\Debug\ProjetoPI.frmfuncionarios.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\obj\x64\Debug\ProjetoPI.frmLocalizacao.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\obj\x64\Debug\ProjetoPI.frmLogin.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\obj\x64\Debug\ProjetoPI.frmMenuPrincipal.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\obj\x64\Debug\ProjetoPI.frmParceiros.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\obj\x64\Debug\ProjetoPI.frmPesquisaFunc.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\obj\x64\Debug\ProjetoPI.frmSplash.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\obj\x64\Debug\ProjetoPI.Properties.Resources.resources
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.GenerateResource.cache
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.CoreCompileInputs.cache
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.CopyComplete
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\obj\x64\Debug\ProjetoPI.exe
+C:\Users\thiago.ssconceicao\Documents\Visual Studio 2019\TISI-master\ProjetoPI\obj\x64\Debug\ProjetoPI.pdb
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\ProjetoPI.exe.config
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\ProjetoPI.exe
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\ProjetoPI.pdb
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\BCrypt.Net-Next.dll
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.dll
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\K4os.Hash.xxHash.dll
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\MySql.Data.dll
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\System.Buffers.dll
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\System.Memory.dll
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\BCrypt.Net-Next.xml
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\BouncyCastle.Crypto.xml
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.xml
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\K4os.Hash.xxHash.xml
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\MySql.Data.xml
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\System.Buffers.xml
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\System.Memory.xml
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.AssemblyReference.cache
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\obj\x64\Debug\ProjetoPI.frmCarregaDataGridDB.resources
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\obj\x64\Debug\ProjetoPI.frmCarregaDataGridDBUsu.resources
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\obj\x64\Debug\ProjetoPI.frmfuncionarios.resources
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\obj\x64\Debug\ProjetoPI.frmLocalizacao.resources
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\obj\x64\Debug\ProjetoPI.frmLogin.resources
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\obj\x64\Debug\ProjetoPI.frmMenuPrincipal.resources
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\obj\x64\Debug\ProjetoPI.frmParceiros.resources
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\obj\x64\Debug\ProjetoPI.frmPesquisaFunc.resources
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\obj\x64\Debug\ProjetoPI.frmSplash.resources
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\obj\x64\Debug\ProjetoPI.Properties.Resources.resources
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.GenerateResource.cache
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.CoreCompileInputs.cache
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\obj\x64\Debug\ProjetoPI.csproj.CopyComplete
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\obj\x64\Debug\ProjetoPI.exe
+C:\Users\Don\Documents\Visual Studio 2022\atuliza-o-sistema-\ProjetoPI\obj\x64\Debug\ProjetoPI.pdb
